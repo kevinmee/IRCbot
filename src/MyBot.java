@@ -83,6 +83,7 @@ public class MyBot extends PircBot{
 				//	inSec+=60;
 				//	inMin--;
 				//}
+				
 				String mercTime = "Next merc update in: " + inMin + " minutes and " + (inSec) + " seconds.";
 				sendMessage(channel, mercTime);
 				
