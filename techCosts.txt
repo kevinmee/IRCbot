@@ -1,0 +1,24 @@
+TECH UPGRADE     COST   MULTIPLYER
+Spear             300         1.05    Fire              350         1.10 
+Oven              400         1.16    Pottery           460         1.22
+Domestication     520         1.28    Copper            600         1.34	
+Wheel             690         1.41    Writing           800         1.48
+Bronze            920         1.55    Irrigation      1,060         1.63
+Woodworking     1,210         1.71    Archery         1,400         1.80
+Salt            1,610         1.89    Sailing         1,850         1.98
+Masonry         2,120         2.08    Forum           2,440 	2.18 
+Furnace         2,810         2.29    Ironworking     3,230         2.41
+Library         3,710         2.53    Medicine        4,270         2.65
+Timekeeping     4,910         2.79    Market          5,650         2.93
+Monastery       6,490         3.07    Windmill        7,470         3.23
+Printing        8,590         3.39    Civil Code      9,880         3.56
+Shipbuilding   11,360         3.73    Astronomy      13,060         3.92
+Chemistry      15,020         4.12    Gunpowder      17,270         4.32
+Economics      19,860         4.54    Cotton Gin     22,840         4.76
+Ballistics     26,270         5.00    Metallurgy     30,210         5.25
+Laboratory     34,740         5.54    Mechanics      39,950         5.79
+Textiles       45,950         6.08    Thermodynamics 52,840         6.39
+Steam Engine   60,760         6.70    Assembly Line  69,880         7.04
+Electricity    80,360         7.39
+--------------------------------------
+Total Experience Required: 614,110
